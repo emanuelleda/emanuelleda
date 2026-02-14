@@ -11,7 +11,7 @@ Sou um **Desenvolvedor Java** focado na construção de sistemas escaláveis e l
 ## 💻 Hardware & Ambiente (Workstation)
 Para suportar o desenvolvimento de aplicações Java e Android, utilizo um **Dell Inspiron 16**:
 * **Processador:** Intel® Core™ 7 150U (10-core, cache de 12MB, até 5.4GHz).
-* **Memória RAM:** 16GB DDR5 (1x16GB) 5200MT/s — Expansível até 32GB (2 slots soDIMM).
+* **Memória RAM:** 16GB DDR5 (2x8GB) 5200MT/s 
 * **Sistema Operacional:** Ubuntu® Linux® 24.04 LTS.
 
 ## 📂 Projetos em Destaque
