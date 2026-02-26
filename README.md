@@ -39,7 +39,4 @@ Para suportar o desenvolvimento e a compilação ágil de aplicações backend e
 ## 📬 Conecte-se comigo
 
 Estou sempre aberto a conversar sobre tecnologia, arquitetura de software e novas oportunidades!
-
-*   💼 **LinkedIn:** [linkedin.com/in/emanuel-lêda](#) 
-*   📧 **E-mail:** [seu-email@dominio.com](mailto:emanuelsilvaleda@gmail.com) *(Substitua pelo seu e-mail)*
 *   🌐 **Portfólio Web:** [Acesse meu portfólio](https://github.com/emanuelleda/portfolio)
