@@ -1,5 +1,6 @@
 # Olá, eu sou o Emanuel Lêda! 👋
 **Desenvolvedor Backend Java | Focado em Arquiteturas Escaláveis e Clean Code**
+🧗‍♂️😄🤩🤖😛
 
 Sou um desenvolvedor focado na construção de sistemas escaláveis e lógica de backend robusta. Acompanho de perto a evolução tecnológica do ecossistema Java (incluindo as inovações do **Java 25** e **Spring Boot 4.x**), sempre aplicando os melhores padrões de engenharia de software para entregar soluções seguras e de alto desempenho.
 
